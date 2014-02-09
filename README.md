@@ -1,4 +1,4 @@
 ungepirater-medlemsregister
 ===========================
 
-Hæ
+Her kommer ungepiraters system for registering av medlemmer!
